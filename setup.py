@@ -23,7 +23,7 @@ setup(
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
     # https://packaging.python.org/en/latest/single_source_version.html
-    version='1.0.4',
+    version='1.0.5',
 
     description='A simple tag wrapping method for XML and HTML.',
     long_description=long_description,
@@ -65,7 +65,7 @@ setup(
     ],
 
     # What does your project relate to?
-    keywords='development xml html generation',
+    keywords='tagwrap tag_wrap development xml html generation',
 
     # You can just specify the packages manually here if your project is
     # simple. Or you can use find_packages().
