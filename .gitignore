@@ -6,3 +6,4 @@
 *.html
 *~
 tag_wrap.egg-info/*
+dist/*
