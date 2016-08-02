@@ -5,3 +5,4 @@
 *.xml
 *.html
 *~
+tag_wrap.egg-info/*
