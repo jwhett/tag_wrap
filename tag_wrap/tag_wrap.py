@@ -6,7 +6,7 @@
 """
 
 
-def tag_wrap(tag_name, *args, **kwargs):
+def wrap(tag_name, *args, **kwargs):
     """Take a tag that will wrap the content
     and return the final comined string.
     """
